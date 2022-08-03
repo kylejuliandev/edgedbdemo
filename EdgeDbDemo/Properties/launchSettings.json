@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EdgeDbDemo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": true
+    }
+  }
+}
